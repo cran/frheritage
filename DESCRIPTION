@@ -1,6 +1,6 @@
 Package: frheritage
 Title: R Interface to Get French Heritage Data
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Matthieu", "Chevereau", , "matthieu.chevereau@hotmail.fr", role = c("aut", "cre"))
 Description: Get spatial vector data from the Atlas du Patrimoine 
@@ -21,8 +21,8 @@ LazyData: true
 Suggests: knitr, rmarkdown, testthat (>= 3.1.7), httptest2
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2026-01-20 18:37:25 UTC; matth
+Packaged: 2026-04-17 16:46:21 UTC; matth
 Author: Matthieu Chevereau [aut, cre]
 Maintainer: Matthieu Chevereau <matthieu.chevereau@hotmail.fr>
 Repository: CRAN
-Date/Publication: 2026-01-24 10:40:02 UTC
+Date/Publication: 2026-04-17 17:00:02 UTC
